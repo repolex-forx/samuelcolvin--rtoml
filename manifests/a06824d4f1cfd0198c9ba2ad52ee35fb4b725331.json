@@ -1,0 +1,50 @@
+{
+  "commit": "a06824d4f1cfd0198c9ba2ad52ee35fb4b725331",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/a06824d4f1cfd0198c9ba2ad52ee35fb4b725331.nq.gz",
+      "size_bytes": 138048
+    },
+    "dep": {
+      "path": "dep/a06824d4f1cfd0198c9ba2ad52ee35fb4b725331.nq.gz",
+      "size_bytes": 725
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "pyo3",
+      "packageVersion": "0.9.2",
+      "githubOrg": "pyo3",
+      "githubRepo": "pyo3",
+      "githubCommit": "956d499f5d76237ae0a97105eb19901e55f9c3e6"
+    },
+    {
+      "packageName": "rtoml",
+      "packageVersion": "0.9.0",
+      "githubOrg": "samuelcolvin",
+      "githubRepo": "rtoml",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "setuptools-rust",
+      "packageVersion": "1.9.0",
+      "githubOrg": "PyO3",
+      "githubRepo": "setuptools-rust",
+      "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
+    },
+    {
+      "packageName": "tomlkit",
+      "packageVersion": "0.9.2",
+      "githubOrg": "sdispater",
+      "githubRepo": "tomlkit",
+      "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
+    }
+  ]
+}
