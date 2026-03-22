@@ -1570,13 +1570,6 @@
       "dep": "dep/0262c9200059bb0706df65c36c9135e6f4e9888c.nq.gz",
       "dependencies": [
         {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
-        },
-        {
           "packageName": "rtoml",
           "packageVersion": "0.9.0",
           "githubOrg": "samuelcolvin",
@@ -1591,18 +1584,25 @@
           "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
         },
         {
-          "packageName": "tomlkit",
-          "packageVersion": "0.9.2",
-          "githubOrg": "sdispater",
-          "githubRepo": "tomlkit",
-          "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
-        },
-        {
           "packageName": "pyo3",
           "packageVersion": "0.9.2",
           "githubOrg": "pyo3",
           "githubRepo": "pyo3",
           "githubCommit": "956d499f5d76237ae0a97105eb19901e55f9c3e6"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "tomlkit",
+          "packageVersion": "0.9.2",
+          "githubOrg": "sdispater",
+          "githubRepo": "tomlkit",
+          "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
         }
       ]
     },
