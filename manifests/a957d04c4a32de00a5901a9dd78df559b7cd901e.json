@@ -1,0 +1,78 @@
+{
+  "commit": "a957d04c4a32de00a5901a9dd78df559b7cd901e",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/a957d04c4a32de00a5901a9dd78df559b7cd901e.nq.gz",
+      "size_bytes": 278497
+    },
+    "dep": {
+      "path": "dep/a957d04c4a32de00a5901a9dd78df559b7cd901e.nq.gz",
+      "size_bytes": 1118
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "toml",
+      "packageVersion": "1.0.7+spec-1.1.0",
+      "githubOrg": "toml-rs",
+      "githubRepo": "toml",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "pyo3",
+      "packageVersion": "0.9.2",
+      "githubOrg": "pyo3",
+      "githubRepo": "pyo3",
+      "githubCommit": "956d499f5d76237ae0a97105eb19901e55f9c3e6"
+    },
+    {
+      "packageName": "ahash",
+      "packageVersion": "0.8.9",
+      "githubOrg": "tkaitchuck",
+      "githubRepo": "ahash",
+      "githubCommit": "3f908902a9428c185ca333855e20b9385af7cce4"
+    },
+    {
+      "packageName": "dirty-equals",
+      "packageVersion": "0.9.0",
+      "githubOrg": "samuelcolvin",
+      "githubRepo": "dirty-equals",
+      "githubCommit": "9e6f0be981f982fdaae16671ab14aefc3ab8664a"
+    },
+    {
+      "packageName": "serde",
+      "packageVersion": "1.0.99",
+      "githubOrg": "serde-rs",
+      "githubRepo": "serde",
+      "githubCommit": "192f5cd647dfb67bfd6158e7234c78c95894c071"
+    },
+    {
+      "packageName": "rtoml",
+      "packageVersion": "0.9.0",
+      "githubOrg": "samuelcolvin",
+      "githubRepo": "rtoml",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "nohash_hasher",
+      "packageVersion": "0.2.0",
+      "githubOrg": "paritytech",
+      "githubRepo": "nohash-hasher",
+      "githubCommit": "99b021664e9d7fd3e1f7ffb8633a137e21e12149"
+    },
+    {
+      "packageName": "crate",
+      "packageVersion": "0.1.1",
+      "githubOrg": "Tina-1300",
+      "githubRepo": "crate",
+      "githubCommit": "103dcb917d8c1814e8a1dbf1d08ad2ea92b08aee"
+    }
+  ]
+}
