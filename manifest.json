@@ -2434,13 +2434,6 @@
       "dep": "dep/7d68375d0863bb4c1998f7844e11eea7709ac83b.nq.gz",
       "dependencies": [
         {
-          "packageName": "pyo3",
-          "packageVersion": "0.9.2",
-          "githubOrg": "pyo3",
-          "githubRepo": "pyo3",
-          "githubCommit": "956d499f5d76237ae0a97105eb19901e55f9c3e6"
-        },
-        {
           "packageName": "rtoml",
           "packageVersion": "0.9.0",
           "githubOrg": "samuelcolvin",
@@ -2448,18 +2441,18 @@
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "tomli",
-          "packageVersion": "2.4.0",
-          "githubOrg": "hukkin",
-          "githubRepo": "tomli",
-          "githubCommit": "a678e6fdeffa89bd28e4ecc148b926a4e1bbbc7b"
+          "packageName": "pyo3",
+          "packageVersion": "0.9.2",
+          "githubOrg": "pyo3",
+          "githubRepo": "pyo3",
+          "githubCommit": "956d499f5d76237ae0a97105eb19901e55f9c3e6"
         },
         {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+          "packageName": "setuptools-rust",
+          "packageVersion": "1.9.0",
+          "githubOrg": "PyO3",
+          "githubRepo": "setuptools-rust",
+          "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
         },
         {
           "packageName": "pytomlpp",
@@ -2469,18 +2462,25 @@
           "githubCommit": "8d8d055ef9f3061d49aac4e6c5a7647dbed8d69f"
         },
         {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "tomli",
+          "packageVersion": "2.4.0",
+          "githubOrg": "hukkin",
+          "githubRepo": "tomli",
+          "githubCommit": "a678e6fdeffa89bd28e4ecc148b926a4e1bbbc7b"
+        },
+        {
           "packageName": "tomlkit",
           "packageVersion": "0.9.2",
           "githubOrg": "sdispater",
           "githubRepo": "tomlkit",
           "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
-        },
-        {
-          "packageName": "setuptools-rust",
-          "packageVersion": "1.9.0",
-          "githubOrg": "PyO3",
-          "githubRepo": "setuptools-rust",
-          "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
         }
       ]
     },
