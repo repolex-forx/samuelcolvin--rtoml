@@ -3,6 +3,11 @@
   "repo": "rtoml",
   "versions": [
     {
+      "commit": "2c5076198f02e6dacc9d8ad2a4ea6c2e729aee9b",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "4f65514392baeb264f740e7b5df04365b360f14a",
       "tag": "",
       "parsed_at": ""
