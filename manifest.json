@@ -1132,11 +1132,11 @@
       "dep": "dep/e834a1ef2a51d4777a5bd99b03b671f719d217a7.nq.gz",
       "dependencies": [
         {
-          "packageName": "setuptools-rust",
-          "packageVersion": "1.9.0",
-          "githubOrg": "PyO3",
-          "githubRepo": "setuptools-rust",
-          "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
           "packageName": "rtoml",
@@ -1146,11 +1146,11 @@
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+          "packageName": "setuptools-rust",
+          "packageVersion": "1.9.0",
+          "githubOrg": "PyO3",
+          "githubRepo": "setuptools-rust",
+          "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
         },
         {
           "packageName": "pyo3",
