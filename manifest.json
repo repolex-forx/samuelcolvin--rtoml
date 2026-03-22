@@ -680,18 +680,25 @@
       "dep": "dep/527eee0904f1ba12c659e467b1181d0c44c05655.nq.gz",
       "dependencies": [
         {
-          "packageName": "rtoml",
-          "packageVersion": "0.9.0",
-          "githubOrg": "samuelcolvin",
-          "githubRepo": "rtoml",
-          "githubCommit": "HEAD"
-        },
-        {
           "packageName": "crate",
           "packageVersion": "0.1.1",
           "githubOrg": "Tina-1300",
           "githubRepo": "crate",
           "githubCommit": "103dcb917d8c1814e8a1dbf1d08ad2ea92b08aee"
+        },
+        {
+          "packageName": "ahash",
+          "packageVersion": "0.8.9",
+          "githubOrg": "tkaitchuck",
+          "githubRepo": "ahash",
+          "githubCommit": "3f908902a9428c185ca333855e20b9385af7cce4"
+        },
+        {
+          "packageName": "rtoml",
+          "packageVersion": "0.9.0",
+          "githubOrg": "samuelcolvin",
+          "githubRepo": "rtoml",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "pyo3",
@@ -708,13 +715,6 @@
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "dirty-equals",
-          "packageVersion": "0.9.0",
-          "githubOrg": "samuelcolvin",
-          "githubRepo": "dirty-equals",
-          "githubCommit": "9e6f0be981f982fdaae16671ab14aefc3ab8664a"
-        },
-        {
           "packageName": "pytest",
           "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
@@ -729,11 +729,11 @@
           "githubCommit": "192f5cd647dfb67bfd6158e7234c78c95894c071"
         },
         {
-          "packageName": "ahash",
-          "packageVersion": "0.8.9",
-          "githubOrg": "tkaitchuck",
-          "githubRepo": "ahash",
-          "githubCommit": "3f908902a9428c185ca333855e20b9385af7cce4"
+          "packageName": "dirty-equals",
+          "packageVersion": "0.9.0",
+          "githubOrg": "samuelcolvin",
+          "githubRepo": "dirty-equals",
+          "githubCommit": "9e6f0be981f982fdaae16671ab14aefc3ab8664a"
         }
       ]
     },
