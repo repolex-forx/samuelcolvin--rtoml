@@ -1146,39 +1146,35 @@
       "dep": "dep/e834a1ef2a51d4777a5bd99b03b671f719d217a7.nq.gz",
       "dependencies": [
         {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+          "packageName": "toml",
+          "ecosystem": "CARGO",
+          "version": "0.5.5",
+          "githubOrg": "toml-rs",
+          "githubRepo": "toml",
+          "githubUrl": "https://github.com/toml-rs/toml",
+          "source": "build_file:Cargo.toml"
         },
         {
-          "packageName": "rtoml",
-          "packageVersion": "0.9.0",
-          "githubOrg": "samuelcolvin",
-          "githubRepo": "rtoml",
-          "githubCommit": "HEAD"
-        },
-        {
-          "packageName": "setuptools-rust",
-          "packageVersion": "1.9.0",
-          "githubOrg": "PyO3",
-          "githubRepo": "setuptools-rust",
-          "githubCommit": "2e4ed40063c0f00bb1e3aa77a8b41ae8b67bff90"
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.104",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "234fbfd7e355fa100ffd1402458e0fa061761478",
+          "githubTag": "v1.0.104",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
         },
         {
           "packageName": "pyo3",
-          "packageVersion": "0.9.2",
+          "ecosystem": "CARGO",
+          "version": "0.8.5",
           "githubOrg": "pyo3",
           "githubRepo": "pyo3",
-          "githubCommit": "956d499f5d76237ae0a97105eb19901e55f9c3e6"
-        },
-        {
-          "packageName": "tomlkit",
-          "packageVersion": "0.9.2",
-          "githubOrg": "sdispater",
-          "githubRepo": "tomlkit",
-          "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
+          "githubCommit": "7e591e310cfde03ad58900084993287cb0a18817",
+          "githubTag": "v0.8.5",
+          "githubUrl": "https://github.com/pyo3/pyo3",
+          "source": "build_file:Cargo.toml"
         }
       ]
     },
